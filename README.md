@@ -1,5 +1,5 @@
 # RiverAPI
-API that gets RiverHeight from Rio do Sul, SC (RIO ITAJAÍ) using FastAPI and bs4
+API that gets RiverHeight from Rio do Sul, SC (RIO ITAJAÍ) using FastAPI and lxml (bs4 in the past).
 
 # Testing
 
