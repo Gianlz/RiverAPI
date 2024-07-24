@@ -1,0 +1,5 @@
+fastapi[all]
+lxml
+uvicorn
+requests
+aiohttp
